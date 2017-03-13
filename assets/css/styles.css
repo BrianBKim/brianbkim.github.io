@@ -10,7 +10,7 @@
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
-  background: #DAE3E7;
+  background: #e1e1e1;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -26,7 +26,7 @@ h6 {
   color: #778492;
 }
 a {
-  color: #3AAA64;
+  color: #12b4ec;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -35,7 +35,7 @@ a {
 a:hover {
   text-decoration: underline;
   color: #5f6b77;
-  color: #2d844e;
+  color: #1278ec;
 }
 a:focus {
   text-decoration: none;
@@ -60,23 +60,23 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
-  color: #fff;
+  background: #caebf2;
+  border: 1px solid #caebf2;
+  color: #a9a9a9;
   font-weight: 600;
   text-transform: uppercase;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #479FC8;
+  border: 1px solid #479FC8;
   color: #fff;
 }
 a.btn-cta-secondary,
 .btn-cta-secondary {
   background: #479FC8;
   border: 1px solid #479FC8;
-  color: #fff;
+  color: #2a0303;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -90,7 +90,7 @@ a.btn-cta-secondary:hover,
   color: #32383e;
 }
 .label-theme {
-  background: #3AAA64;
+  background: #12b4ec;
   font-size: 12px;
 }
 a.dotted-link {
@@ -117,7 +117,7 @@ iframe {
 /* ======= Header ======= */
 .header {
   padding: 30px 0;
-  background: #f5f5f5;
+  background: #efefef;
   border-top: 10px solid #778492;
 }
 .header .btn {
@@ -142,7 +142,7 @@ iframe {
   margin-bottom: 15px;
 }
 .header .profile-content .social a {
-  background: #b0b7bf;
+  background: #FF3B3F;
   width: 36px;
   height: 36px;
   display: inline-block;
@@ -179,7 +179,7 @@ iframe {
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #545e69;
+  color: #FF3B3F;
   font-size: 24px;
 }
 .section .content .more-link .fa {
@@ -234,7 +234,7 @@ iframe {
   position: relative;
 }
 .latest .featured-image .text {
-  background: #3AAA64;
+  background: #12b4ec;
   color: #fff;
 }
 .latest .featured-image .ribbon {
@@ -381,7 +381,7 @@ iframe {
 }
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #92cee2;
 }
 /* Testimonials section */
 .testimonials .item {
